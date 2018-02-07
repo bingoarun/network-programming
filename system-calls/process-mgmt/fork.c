@@ -22,6 +22,9 @@ int main()
 
 /* OUTPUT
 
+[arun@dell process-mgmt]$ echo $$
+9183
+
 [arun@dell process-mgmt]$ ./a.out 
 Parent Process ID is 9183
 Process ID is 21114
